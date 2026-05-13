@@ -7,8 +7,8 @@ No bloco de notas:
 
 ## Como Implemantar
 
-- Vá ao diretório de arquivos de símbolos ```/usr/share/X11/xkb/symbols```
-- Edite o arquivo "br" existente com permissão de administrador
+- Vá ao diretório de arquivos de símbolos ```/usr/share/X11/xkb/symbols```;
+- Edite o arquivo "br" existente com permissão de administrador;
 - Adicione a nova variante de layout no final do arquivo (escolha entre [Portuguese (Brazil, Colemak).xkb](https://github.com/guilherme-sotti-neto/Colemak-ABNT2/blob/main/Portuguese%20(Brazil%2C%20Colemak).xkb) e [QW TROCADOS Portuguese (Brazil, Colemak).xkb](https://github.com/guilherme-sotti-neto/Colemak-ABNT2/blob/main/QW%20TROCADOS%20Portuguese%20(Brazil,%20Colemak).xkb)) e salve;
 - Edite o registro XML ```/usr/share/X11/xkb/rules/evdev.xml``` com permissão de administrador. Dentro do bloco ```<variantList>``` do português adicione a variante:
 ```
@@ -19,7 +19,7 @@ No bloco de notas:
   </configItem> 
 </variant>
 ```
-- Limpe o cache pelo Terminal ```sudo rm -rf /var/lib/xkb/*```
+- Limpe o cache pelo Terminal ```sudo rm -rf /var/lib/xkb/*```;
 - Adicione a fonte de entrada "Portuguese (Brazil, Colemak)" nas configurações do teclado.
 
 Layout:
