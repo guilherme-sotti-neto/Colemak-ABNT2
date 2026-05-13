@@ -6,8 +6,10 @@ No bloco de notas:
 - Mudei a posição das letras.
 
 # Como implemantar
-- Copie o layout no arquivo [Portuguese (Brazil, Colemak).txt](https://github.com/guilherme-sotti-neto/Colemak-ABNT2/blob/main/Portuguese%20(Brazil%2C%20Colemak).txt);
-- 
+
+- Vá ao diretório de arquivos de símbolos /usr/share/X11/xkb/symbols
+- Edite o arquivo "br" existente com permissão de administrador .
+- Adicione a nova variante de layout no final do arquivo (escolha entre [Portuguese (Brazil, Colemak).txt](https://github.com/guilherme-sotti-neto/Colemak-ABNT2/blob/main/Portuguese%20(Brazil%2C%20Colemak).txt) e ) e salve;
 - 
 <img width="812" height="406" alt="image" src="https://github.com/user-attachments/assets/80e6a7c7-ee77-42a3-a964-8ba555a9d238" />
 <img width="812" height="406" alt="image" src="https://github.com/user-attachments/assets/2e537c45-fa3c-4cea-9774-856e01810fa8" />
