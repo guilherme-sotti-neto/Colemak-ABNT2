@@ -5,6 +5,7 @@ No bloco de notas:
 - Usei o layout padrão ABNT2;
 - Mudei a posição das letras.
 
+Troquei a posição do Q e W, e Y e Ç para facilitar a digitação.
 ## Como Implemantar
 
 - Vá ao diretório de arquivos de símbolos ```/usr/share/X11/xkb/symbols```;
