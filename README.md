@@ -5,12 +5,12 @@ No bloco de notas:
 - Usei o layout padrão ABNT2;
 - Mudei a posição das letras.
 
-Troquei a posição do Q e W, e Y e Ç para facilitar a digitação.
+No arquivo [QWYÇ TROCADOS Portuguese (Brazil, Colemak).xkb](https://github.com/guilherme-sotti-neto/Colemak-ABNT2/blob/main/QWYÇ%20TROCADOS%20Portuguese%20(Brazil,%20Colemak).xkb) troquei a posição do Q e W, e Y e Ç para facilitar a digitação.
 ## Como Implemantar
 
 - Vá ao diretório de arquivos de símbolos ```/usr/share/X11/xkb/symbols```;
-- Edite o arquivo "br" existente com permissão de administrador;
-- Adicione a nova variante de layout no final do arquivo (escolha entre [Portuguese (Brazil, Colemak).xkb](https://github.com/guilherme-sotti-neto/Colemak-ABNT2/blob/main/Portuguese%20(Brazil%2C%20Colemak).xkb) e [QW TROCADOS Portuguese (Brazil, Colemak).xkb](https://github.com/guilherme-sotti-neto/Colemak-ABNT2/blob/main/QW%20TROCADOS%20Portuguese%20(Brazil,%20Colemak).xkb)) e salve;
+- Edite o arquivo ```br``` existente com permissão de administrador;
+- Adicione a nova variante de layout no final do arquivo (escolha entre [Portuguese (Brazil, Colemak).xkb](https://github.com/guilherme-sotti-neto/Colemak-ABNT2/blob/main/Portuguese%20(Brazil%2C%20Colemak).xkb) e [QWYÇ TROCADOS Portuguese (Brazil, Colemak).xkb](https://github.com/guilherme-sotti-neto/Colemak-ABNT2/blob/main/QWYÇ%20TROCADOS%20Portuguese%20(Brazil,%20Colemak).xkb)) e salve;
 - Edite o registro XML ```/usr/share/X11/xkb/rules/evdev.xml``` com permissão de administrador. Dentro do bloco ```<variantList>``` do português adicione a variante:
 ```
 <variant>
@@ -21,7 +21,7 @@ Troquei a posição do Q e W, e Y e Ç para facilitar a digitação.
 </variant>
 ```
 - Limpe o cache pelo Terminal ```sudo rm -rf /var/lib/xkb/*```;
-- Adicione a fonte de entrada "Portuguese (Brazil, Colemak)" nas configurações do teclado.
+- Adicione a fonte de entrada ```Portuguese (Brazil, Colemak)``` nas configurações do teclado.
 
 Layout:
 
