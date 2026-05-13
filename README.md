@@ -1,4 +1,4 @@
-# Colemak Para ABNT2 (PT-BR)
+# Colemak Para ABNT2 (PT-BR) Linux
 Fiz esse layout pois não encontrei para Português, nem para Linux, e muito menos ABNT2.
 
 No bloco de notas:
