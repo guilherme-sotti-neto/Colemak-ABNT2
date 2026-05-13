@@ -56,7 +56,7 @@ xkb_symbols "colemak" {
     key <AB09>	{[      period,    greater, periodcentered,   division ]};
     key <AB10> { [    semicolon,          colon, dead_belowdot,   dead_abovedot ] };
   
-    // The ABNT-2 keyboard has this special key:
+    // ABNT2 tem uma tecla a mais:
     key <AB11> { [        slash,       question,        degree,    questiondown ] };
 
     include "kpdl(comma)"
