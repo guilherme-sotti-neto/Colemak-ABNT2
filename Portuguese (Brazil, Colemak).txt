@@ -18,8 +18,8 @@ xkb_symbols "colemak" {
     key <AE11>	{ [     minus, underscore,    backslash, questiondown ]	};
     key <AE12> { [        equal,           plus,       section,   paragraph] };
 
-    key <AD01>	{[        w,            W,           question,        question  ]};
-    key <AD02>	{[            q,            Q,      slash,           slash]};
+    key <AD01>	{[       q,            Q,      slash,           slash  ]};
+    key <AD02>	{[           w,            W,           question,        question]};
     key <AD03>	{[          f,            F,        dstroke,  ordfeminine]};
     key <AD04>	{[          p,            P,          thorn,        THORN ]};
     key <AD05>	{[          g,            G,            eng,          ENG ]};
