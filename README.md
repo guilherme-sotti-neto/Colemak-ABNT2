@@ -5,7 +5,7 @@ No bloco de notas:
 - Usei o layout padrão ABNT2;
 - Mudei a posição das letras.
 
-# Como Implemantar
+## Como Implemantar
 
 - Vá ao diretório de arquivos de símbolos ```/usr/share/X11/xkb/symbols```
 - Edite o arquivo "br" existente com permissão de administrador
