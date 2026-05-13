@@ -26,8 +26,8 @@ xkb_symbols "colemak" {
     key <AD06>	{[          j,            J,         dead_hook,    dead_horn ]};
     key <AD07>	{[          l,            L,      lstroke,      Lstroke ]};
     key <AD08>	{[          u,            U,       downarrow,      uparrow ]};
-    key <AD09>	{[          y,            Y,          leftarrow,          yen ]};
-    key <AD10>	{[     ccedilla,       Ccedilla,    dead_acute, dead_doubleacute ]};
+    key <AD09>	{[         ccedilla,       Ccedilla,    dead_acute, dead_doubleacute ]};
+    key <AD10>	{[        y,            Y,          leftarrow,          yen ]};
     key <AD11> { [   dead_acute,     dead_grave,         acute,           grave ] };
     key <AD12> { [  bracketleft,      braceleft,   ordfeminine,     dead_macron ] };
     key <BKSL> { [ bracketright,     braceright,     masculine,       masculine ] };
