@@ -20,7 +20,7 @@ No bloco de notas:
 </variant>
 ```
 - Limpe o cache pelo Terminal ```sudo rm -rf /var/lib/xkb/*```
-- Adicionne a fonte de entrada "Portuguese (Brazil, Colemak)" nas configurações do teclado.
+- Adicione a fonte de entrada "Portuguese (Brazil, Colemak)" nas configurações do teclado.
 
 Layout:
 <img width="812" height="406" alt="image" src="https://github.com/user-attachments/assets/80e6a7c7-ee77-42a3-a964-8ba555a9d238" />
