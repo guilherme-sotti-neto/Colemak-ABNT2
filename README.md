@@ -2,9 +2,13 @@
 Fiz esse layout pois não encontrei para Português, nem para Linux, e muito menos ABNT2.
 
 No bloco de notas:
-- Usei o layout padrão ABNT2
-- Mudei a posição das letras
+- Usei o layout padrão ABNT2;
+- Mudei a posição das letras.
 
+# Como implemantar
+- Copie o layout no arquivo [Portuguese (Brazil, Colemak).txt](https://github.com/guilherme-sotti-neto/Colemak-ABNT2/blob/main/Portuguese%20(Brazil%2C%20Colemak).txt);
+- 
+- 
 <img width="812" height="406" alt="image" src="https://github.com/user-attachments/assets/80e6a7c7-ee77-42a3-a964-8ba555a9d238" />
 <img width="812" height="406" alt="image" src="https://github.com/user-attachments/assets/2e537c45-fa3c-4cea-9774-856e01810fa8" />
 <img width="812" height="406" alt="image" src="https://github.com/user-attachments/assets/f115a129-2712-4a4e-9f2e-b8071fd904a2" />
